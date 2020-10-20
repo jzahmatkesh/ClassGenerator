@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/10/20 11:14:53.962.pas,C:\WINDOWS\System32\Projects\Unit1.pas=F:\Bitmap\Unit1.pas</Transaction>
+    <Transaction>2020/10/20 11:14:53.962.dfm,C:\WINDOWS\System32\Projects\Unit1.dfm=F:\Bitmap\Unit1.dfm</Transaction>
+    <Transaction>2020/10/20 11:24:02.938.dproj,C:\WINDOWS\System32\Projects\Project1.dproj=F:\ClassGenerator\ClassGenerator.dproj</Transaction>
+    <Transaction>2020/10/20 11:24:21.246.pas,F:\Bitmap\Unit1.pas=F:\ClassGenerator\UnMain.pas</Transaction>
+    <Transaction>2020/10/20 11:24:21.246.dfm,F:\Bitmap\Unit1.dfm=F:\ClassGenerator\UnMain.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
