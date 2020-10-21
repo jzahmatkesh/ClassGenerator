@@ -8,7 +8,7 @@ ask me if you have any question,
 
 Languag: Delphi
 
-
+![Preview](https://i.imgur.com/ZLu58ll.png)
 
 
 [find me here ](http://zahmatkesh.dev), to hire :sunglasses:,
